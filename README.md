@@ -12,7 +12,7 @@ A simple and efficient Todo List application built using the **MERN Stack** (Mon
 
 ## 🖼 Screenshots
 
-![Homepage](IMAGE_URL_HERE)
+![Homepage](./assets/homepage.png)
 
 
 ## 🛠 Tech Stack
